@@ -1,0 +1,4 @@
+theme : moon
+logo : assets/logo.png
+transition : fade
+mousewheel : false
