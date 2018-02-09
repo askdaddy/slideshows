@@ -101,3 +101,16 @@
 + 大框架设计完毕
 + IOS 和 Android 已经启动
 + 后端已经启动
+
+---
+
+# NEXT 2018
+
++++
+@title[Piecemeal Lists]
+
+- 深入研究Privoxy
+- 深入研究SSR |
+- 探索更佳的OTGFW技术 |
+- 继续学习VPN技术 |
+- 继续学习BGP技术 |
