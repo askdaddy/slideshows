@@ -1,0 +1,5 @@
+theme : beige
+logo : assets/logo.png
+transition : fade
+mousewheel : false
+published : true
