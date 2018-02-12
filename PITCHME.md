@@ -41,6 +41,7 @@
 ![android](assets/android.jpg)
 
 +++
+
 - 支持IOS v9.0及更新的操作系统
 - 支持Android v4.4及更新的操作系统
 
