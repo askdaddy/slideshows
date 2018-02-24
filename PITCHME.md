@@ -1,4 +1,5 @@
-@title[远近商用专线]
+@title[概述]
+
 # 远近商用专线
 ### <span style="font-family:Helvetica Neue; font-weight:bold">一套完整的<span style="color:#e49436">商用专线</span>方案</span>
 
@@ -59,8 +60,8 @@
 ---
 
 ## 改变传统私有专用网络形态
-
-##### 此处需要有配图
+##### 远近可以让用户在任何地点使用，而传统vpn只能在有vpn网关的办公环境内使用
+##### --此处需要有配图--
 
 ---
 
