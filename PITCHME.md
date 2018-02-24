@@ -8,7 +8,7 @@
 
 ## Web可视化管理界面
 
-![portal](assets/portal.jpg)
+---?image=./assets/portal.jpg&size=auto 80%
 
 +++
 
@@ -28,7 +28,7 @@
 
 #### 将智能加速路由下沉到个人PC，上网办公更流畅
 
-![pc](assets/pc.jpg)
+---?image=./assets/pc.jpg&size=auto 80%
 
 +++
 
@@ -41,8 +41,8 @@
 
 #### 移动办公更便捷
 
-![ios](assets/ios.jpg)
-![android](assets/android.jpg)
+---?image=./assets/ios.jpg&size=auto 80%
+---?image=./assets/android.jpg&size=auto 80%
 
 +++
 
