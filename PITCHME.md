@@ -41,8 +41,8 @@
 
 #### 移动办公更便捷
 
----?image=./assets/ios.jpg&size=auto 80%
----?image=./assets/android.jpg&size=auto 80%
++++?image=./assets/ios.jpg&size=auto 80%
++++?image=./assets/android.jpg&size=auto 80%
 
 +++
 
