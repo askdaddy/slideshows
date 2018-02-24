@@ -8,7 +8,7 @@
 
 ## Web可视化管理界面
 
-?image=./assets/portal.jpg&size=auto 80%
++++?image=./assets/portal.jpg&size=auto 80%
 
 +++
 
@@ -28,7 +28,7 @@
 
 #### 将智能加速路由下沉到个人PC，上网办公更流畅
 
-?image=./assets/pc.jpg&size=auto 80%
++++?image=./assets/pc.jpg&size=auto 80%
 
 +++
 
