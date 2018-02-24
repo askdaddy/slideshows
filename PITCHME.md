@@ -1,12 +1,12 @@
 @title[远近商用专线]
-## 商用专有互联加速业务
-##### <span style="font-family:Helvetica Neue; font-weight:bold">一套完整的<span style="color:#e49436">商用私有</span>互联网加速解决方案</span>
+# 商用专有互联加速业务
+#### <span style="font-family:Helvetica Neue; font-weight:bold">一套完整的<span style="color:#e49436">商用私有</span>互联网加速解决方案</span>
 
 ---
 
 @title[概述]
 
-## Web可视化管理界面
+# Web可视化管理界面
 
 ![portal](assets/portal.jpg)
 
@@ -20,22 +20,26 @@
 
 ---
 
-## 全平台终端App
+# 全平台终端App
 
 +++
 
-##### PC电脑端
+## PC电脑端
 
-> 将智能加速路由下沉到个人PC，上网办公更流畅
+#### 将智能加速路由下沉到个人PC，上网办公更流畅
+
+![pc](assets/pc.jpg)
+
++++
 
 - OS X v10.1 及更新的操作系统
 - 支持Windows XP及更新的操作系统
 
 +++
 
-##### 移动终端
+## 移动终端
 
-> 移动办公更便捷
+#### 移动办公更便捷
 
 ![ios](assets/ios.jpg)
 ![android](assets/android.jpg)
@@ -46,5 +50,25 @@
 - 支持Android v4.4及更新的操作系统
 
 ---
+
+# <span style="color:#e49436">智能</span>的加速产品
+
+#### 国内外智能分流
+
+- 智能区分流量，自动寻找最优的加速节点
+- 简便易用的客户端App，一键开启无需任何配置|
+
+---
+
+# 改变传统私有专用网络形态
+
+###### 此处需要有配图
+
+---
+
+# 专业的专有网络服务器团队
+
+- 7*24 小时一对一技术支援
+- 99.9% 高可用率|
 
 # 谢谢
